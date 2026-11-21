@@ -1,0 +1,18 @@
+
+# Database credentials
+db.php
+.env
+
+# Private database backups
+*.sql
+grading_system_backup/
+
+# Temporary files
+*.log
+tmp/
+temp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
